@@ -1,2 +1,2 @@
 # Snake
-AI Snake
+Updates coming soon...
